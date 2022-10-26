@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">loginactivity</string>
+    <string name="Email">email</string>
+    <string name="Password">password</string>
+    <string name="Login">login</string>
+    <string name="NewHerecreateAccount">New Here? Create Account</string>
+    <string name="map">map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
